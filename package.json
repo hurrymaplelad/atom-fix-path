@@ -1,7 +1,7 @@
 {
   "name": "atom-fix-path",
   "main": "./lib/atom-fix-path",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Preserve `$PATH` when you launch Atom from it's icon or a launcher",
   "keywords": [],
   "repository": "https://github.com/hurrymaplelad/atom-fix-path",
